@@ -3,6 +3,11 @@ All notable changes to the Imagemap module will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [1.8.0] - 2021-03-16
+### Added
+- add option to use api urls (Andrew Martin)
+
+
 ## [1.7.0] - 2020-10-20
 ### Added
 - Add fibromyalgia map (willsvankumc)
